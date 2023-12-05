@@ -1,0 +1,7 @@
+1351 Intro to Engineering Design
+	-Engineering Design Project powered by an Arduino and a CNC Shield.
+
+2360 Numerical Analysis/Programming
+	-Classwork primarily in C with some extra work done in MATLAB.
+
+3360 Engineering Analysis
